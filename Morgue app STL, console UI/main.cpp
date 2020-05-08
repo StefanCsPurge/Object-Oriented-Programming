@@ -9,7 +9,7 @@ void main()
     testAll(); // here we run all the required tests
     {
         Repository* repo;
-        cout << "Press 1 usual repository / 2 for SQL repository -> ";
+        cout << "Press 1 for usual repository / 2 for SQL repository -> ";
         int choice; bool sqlRepo = false;
         cin >> choice;
         if (choice == 1)
