@@ -1,0 +1,2 @@
+Helicopter: ID: 12 - Model: Mad2 - Suitable for: military - Max altitude: 11 - Private: 1
+Plane: ID: 22 - Model: military - Suitable for: military - Max altitude: 26 - Private: 0 - Main wings: monoplane
