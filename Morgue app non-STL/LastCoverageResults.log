@@ -1,0 +1,21 @@
+[2020-03-30 10:32:28] [info] Start Program:
+Path:"C:\\Users\\mihal\\Desktop\\Faculty 1st year\\Semester II\\OOP\\Lab\\Lab5 C++\\Debug\\Lab5 C++.exe"
+Arguments:
+Working directory: "C:\\Users\\mihal\\Desktop\\Faculty 1st year\\Semester II\\OOP\\Lab\\Lab5 C++\\Lab5 C++\\"
+Modules: Selected: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab5 C++\Debug\Lab5 C++.exe Excluded: 
+Sources: Selected: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab5 C++\Lab5 C++ Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\mihal\AppData\Local\Temp\xcm1csym.gyt 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-03-30 10:32:28] [info] Module: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab5 C++\Debug\Lab5 C++.exe is selected because it matches selected pattern: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab5 C++\Debug\Lab5 C++.exe
+[2020-03-30 10:32:28] [info] ----------------------------------------------------
+[2020-03-30 10:32:28] [info] Coverage binary generated in file: C:\Users\mihal\AppData\Local\Temp\xcm1csym.gyt
+[2020-03-30 10:32:28] [info] ----------------------------------------------------
