@@ -1,0 +1,21 @@
+[2020-04-18 16:27:21] [info] Start Program:
+Path:"C:\\Users\\mihal\\Desktop\\Faculty 1st year\\Semester II\\OOP\\Lab\\Lab 8-9\\Debug\\TheMorgue.exe"
+Arguments:
+Working directory: "C:\\Users\\mihal\\Desktop\\Faculty 1st year\\Semester II\\OOP\\Lab\\Lab 8-9\\"
+Modules: Selected: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab 8-9\Debug\TheMorgue.exe Excluded: 
+Sources: Selected: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab 8-9 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\mihal\AppData\Local\Temp\v3xiqvwf.zig 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-18 16:27:21] [info] Module: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab 8-9\Debug\TheMorgue.exe is selected because it matches selected pattern: C:\Users\mihal\Desktop\Faculty 1st year\Semester II\OOP\Lab\Lab 8-9\Debug\TheMorgue.exe
+[2020-04-18 16:27:24] [info] ----------------------------------------------------
+[2020-04-18 16:27:24] [info] Coverage binary generated in file: C:\Users\mihal\AppData\Local\Temp\v3xiqvwf.zig
+[2020-04-18 16:27:24] [info] ----------------------------------------------------
