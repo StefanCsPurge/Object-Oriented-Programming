@@ -1,0 +1,1 @@
+Name: abc - Salary: 5000.000000 - Total income: 5123.400000
