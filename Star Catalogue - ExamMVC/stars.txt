@@ -1,0 +1,7 @@
+Star1,Const1,20,30,44
+Star2,Const1,333,33,55
+maStar22,Const1,100,222,500
+Star3,Const2,10,300,22
+Star4,Const2,11,13,100
+22,Const2,112,20,221
+Steaua lui Gicu,Const2,400,12,322
